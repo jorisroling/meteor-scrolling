@@ -1,0 +1,6 @@
+[submodule "lib/scrolling"]
+	path = lib/scrolling
+	url = https://github.com/Darkseal/jquery.scrolling.git
+[submodule "lib/infinitscroll"]
+	path = lib/infinitscroll
+	url = https://github.com/infinite-scroll/infinite-scroll.git
